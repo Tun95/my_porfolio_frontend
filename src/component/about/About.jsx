@@ -18,12 +18,12 @@ function About() {
             <article className="about_card">
               <i className="fa-solid fa-award"></i>
               <h5>Experience</h5>
-              <small>3+ Years Working</small>
+              <small>4+ Years Working</small>
             </article>
             <article className="about_card">
               <i className="fa-solid fa-users"></i>
               <h5>Clients</h5>
-              <small>100+ Worldwide</small>
+              <small></small>
             </article>
             <article className="about_card">
               <i className="fa-solid fa-folder"></i>
