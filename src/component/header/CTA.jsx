@@ -4,7 +4,7 @@ import TunjiAkande from "../../asset/TunjiAkande.pdf";
 function CTA() {
   return (
     <div className="cta">
-      <a href={TunjiAkande} download className="btn">
+      <a href={TunjiAkande} download={TunjiAkande} className="btn">
         Download CV
       </a>
       <a href="#contact" className="btn btn-primary">
