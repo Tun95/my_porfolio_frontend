@@ -118,7 +118,7 @@ function Portfolio() {
               Github
             </a>
             <a
-              href="https://github.com"
+              href="https://shopmate-advanced-web-app.onrender.com"
               className="btn btn-primary"
               target="_blank"
               rel="noopener noreferrer"
