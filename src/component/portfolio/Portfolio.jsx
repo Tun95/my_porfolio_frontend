@@ -19,7 +19,12 @@ function Portfolio() {
           </div>
           <h3>Shopmate(1) [Completed]</h3>
           <div className="portfolio_item-cta">
-            <a href="https://github.com" className="btn">
+            <a
+              href="https://github.com/Tun95/shopmate"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="btn"
+            >
               Github
             </a>
             <a
@@ -38,7 +43,12 @@ function Portfolio() {
           </div>
           <h3>Game Review Website Frontend</h3>
           <div className="portfolio_item-cta">
-            <a href="https://github.com" className="btn">
+            <a
+              href="https://github.com/Tun95/game_rev-frontend"
+              className="btn"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               Github
             </a>
             <a
@@ -57,7 +67,12 @@ function Portfolio() {
           </div>
           <h3>Game Review Website Admin Panel</h3>
           <div className="portfolio_item-cta">
-            <a href="https://github.com" className="btn">
+            <a
+              href="https://github.com/Tun95/game_rev-admin-pannel"
+              className="btn"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               Github
             </a>
             <a
@@ -76,7 +91,12 @@ function Portfolio() {
           </div>
           <h3>Courier Website Frontend [Working on it]</h3>
           <div className="portfolio_item-cta">
-            <a href="https://github.com" className="btn">
+            <a
+              href="https://github.com/Tun95/Courier__Shopmate"
+              className="btn"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               Github
             </a>
             <a
@@ -95,7 +115,12 @@ function Portfolio() {
           </div>
           <h3>PlayONFlix Movie Website</h3>
           <div className="portfolio_item-cta">
-            <a href="https://github.com" className="btn">
+            <a
+              href="https://github.com/Tun95/movie_mern_client"
+              className="btn"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               Github
             </a>
             <a
@@ -114,7 +139,12 @@ function Portfolio() {
           </div>
           <h3>Shopmate 2 [Working on it]</h3>
           <div className="portfolio_item-cta">
-            <a href="https://github.com" className="btn">
+            <a
+              href="https://github.com/Tun95/shopmate-two-app"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="btn"
+            >
               Github
             </a>
             <a
