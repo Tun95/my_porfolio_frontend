@@ -17,7 +17,7 @@ function Portfolio() {
           <div className="portfolio_item-image">
             <img src={shop} alt="port1" />
           </div>
-          <h3>Shopmate(1) [Completed]</h3>
+          <h3>Shopmate (1)</h3>
           <div className="portfolio_item-cta">
             <a
               href="https://github.com/Tun95/shopmate"
