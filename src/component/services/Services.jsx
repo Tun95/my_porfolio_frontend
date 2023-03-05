@@ -71,7 +71,7 @@ function Services() {
           <div className="service_head">
             <h3>Content Creation</h3>
           </div>
-          <ul className="service_list">
+          {/* <ul className="service_list">
             <li>
               <i className="fa-solid fa-check"></i>
               <p>Animated Explainer Videos</p>
@@ -92,7 +92,7 @@ function Services() {
               <i className="fa-solid fa-check"></i>
               <p>Please Ignore this Section</p>
             </li>
-          </ul>
+          </ul> */}
         </article>
         {/* END OF Content Creation */}
       </div>
