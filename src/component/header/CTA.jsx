@@ -5,7 +5,7 @@ function CTA() {
   return (
     <div className="cta">
       <a href={TunjiAkande} download={TunjiAkande} className="btn">
-        Download CV
+        Download
       </a>
       <a href="#contact" className="btn btn-primary">
         Let's Talk
