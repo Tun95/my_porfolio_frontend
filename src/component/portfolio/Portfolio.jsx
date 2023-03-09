@@ -89,7 +89,7 @@ function Portfolio() {
           <div className="portfolio_item-image">
             <img src={courier} alt="port1" />
           </div>
-          <h3>Courier Website Frontend [Working on it]</h3>
+          <h3>Courier Website Frontend [Static]</h3>
           <div className="portfolio_item-cta">
             <a
               href="https://github.com/Tun95/Courier__Shopmate"
@@ -137,7 +137,7 @@ function Portfolio() {
           <div className="portfolio_item-image">
             <img src={shop2} alt="port1" />
           </div>
-          <h3>Shopmate 2 [Working on it]</h3>
+          <h3>Shopmate 2 [Static]</h3>
           <div className="portfolio_item-cta">
             <a
               href="https://github.com/Tun95/shopmate-two-app"
