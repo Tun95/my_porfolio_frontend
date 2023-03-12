@@ -13,9 +13,9 @@ function Header() {
         <h5 className="text-light">Full Stack Developer</h5>
         <CTA />
         <HeaderSocial />
-        <div className="me">
+        {/* <div className="me">
           <img src={me} alt="me" />
-        </div>
+        </div> */}
         <a href="#contact" className="scroll_down">
           Scroll Down
         </a>

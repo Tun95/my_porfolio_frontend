@@ -81,7 +81,7 @@ function Contact() {
           <article className="contact_option">
             <i className="fa-brands fa-whatsapp icon"></i>
             <h4>WhatsApp</h4>
-            <h5>+2349160921639</h5>
+            {/* <h5>+2349160921639</h5> */}
             <a
               href="https://wa.me/+2349160921639"
               target="_blank"
